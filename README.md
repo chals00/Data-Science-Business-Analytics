@@ -57,7 +57,7 @@ Looking for structured, live, mentor-led tech training? Check out our industry-r
 * 🌐 **Website:** [SpectraOne Solutions](https://spectraonesolutions.com)
 * 🎓 **Programs Offered:**
   * [Data Science & Business Analytics Training](https://spectraonesolutions.com)
-  * [QA Automation & SDET Training](https://spectraonesolutions.com)
+  * [Quality Assurance Training](https://spectraonesolutions.com)
   * [Java Backend Developer Training](https://spectraonesolutions.com)
   * [AI & Automation Engineering Training](https://spectraonesolutions.com)
   * [Cyber Security & SOC Training](https://spectraonesolutions.com)
