@@ -40,6 +40,10 @@ Real-world portfolio projects you should build to showcase end-to-end expertise:
 3. **Marketing Campaign A/B Testing:** Statistical hypothesis framework analyzing conversion rate lift.
 4. **Supply Chain Inventory Optimization:** Time-series forecasting using Prophet / ARIMA.
 
+## 📁 Code Assets & Starter Templates
+Clone or download ready-to-use scripts included in this repository:
+* [`top_business_analytics_sql_queries.sql`](./top_business_analytics_sql_queries.sql) — Real-world SQL templates for KPI tracking, cohort retention, and MoM growth.
+* [`exploratory_data_analysis_template.py`](./exploratory_data_analysis_template.py) — Python script for automated data auditing, missing value detection, and IQR outlier scans.
 ---
 
 ## 🎯 Technical Interview Prep Cheat Sheets
